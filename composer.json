@@ -10,7 +10,7 @@
     }
   ],
   "require": {
-    "php": "^7.1",
+    "php": "^7.1|>=8.0",
     "amphp/process": "^1.1",
     "amphp/react-adapter": "dev-promise",
     "composer/xdebug-handler": "^1.3",
